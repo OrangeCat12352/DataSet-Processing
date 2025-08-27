@@ -59,5 +59,5 @@ voc_annotation.py
 该文件用于分割训练集和验证集（VOC格式）
 
 Weight_Process.py                  
-该文件用于处理权重文件，包括更改Key，删除ke
+该文件用于处理权重文件，包括更改Key，删除key
 
